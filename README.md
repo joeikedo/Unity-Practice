@@ -1,2 +1,2 @@
 # Unity-Practice
-Practicing using GitHub for Unity Projects, check checking
+Practicing using GitHub for Unity Projects
